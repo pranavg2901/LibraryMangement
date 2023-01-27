@@ -1,4 +1,3 @@
-#=========== Import Packages ================
 
 from tkinter import*
 import tkinter
