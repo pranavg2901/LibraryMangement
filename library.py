@@ -940,8 +940,7 @@ class LibrarymanagementSystem:
         self.txtBox.insert(END,"DateOverDue:\t\t"+ self.dateoverdue.get() + "\n")   
         self.txtBox.insert(END,"FinallPrice:\t\t"+ self.finallprice.get() + "\n")   
         
-   
-            
+               
 
 if __name__ == "__main__":
     root=Tk()
